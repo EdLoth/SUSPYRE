@@ -1,5 +1,5 @@
 # SUSPYRE
-<i>SUSPYRE</i> <strong>is a free patient management tool, in order to optimize your time and help your organization.</strong> :tada:
+<i>SUSPYRE</i> <strong>is a free patient management tool, in order to optimize your time and help your health organization!.</strong> :tada:
 <br>
 <a href="https://imgur.com/DzUpRc0"><img src="https://i.imgur.com/DzUpRc0.png" title="source: imgur.com" /></a>
 
